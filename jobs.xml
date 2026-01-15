@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <publisher>My Company</publisher>
+  <publisherurl>https://example.com</publisherurl>
+  <lastBuildDate><![CDATA[2026-01-15T13:00:00Z]]></lastBuildDate>
+
+  <job>
+    <title><![CDATA[Operations Specialist]]></title>
+    <date><![CDATA[2026-01-10T00:00:00Z]]></date>
+    <referencenumber><![CDATA[ops-specialist-001]]></referencenumber>
+    <url><![CDATA[https://example.com/careers/ops-specialist?source=Indeed]]></url>
+    <company><![CDATA[ExampleCo]]></company>
+    <sourcename><![CDATA[ExampleCo]]></sourcename>
+
+    <city><![CDATA[Taguig]]></city>
+    <state><![CDATA[NCR]]></state>
+    <country><![CDATA[PH]]></country>
+
+    <description><![CDATA[
+      <p><b>About the role</b></p>
+      <ul>
+        <li>Own day-to-day ops workflows</li>
+        <li>Maintain internal tools and dashboards</li>
+      </ul>
+      <p><b>Requirements</b></p>
+      <ul>
+        <li>2+ years operations experience</li>
+      </ul>
+    ]]></description>
+
+    <!-- Include these only if they’re shown on your job page -->
+    <jobtype><![CDATA[fulltime]]></jobtype>
+    <remotetype><![CDATA[Fully remote]]></remotetype>
+  </job>
+
+</source>
