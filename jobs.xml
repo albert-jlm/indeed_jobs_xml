@@ -1,36 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <source>
-  <publisher>My Company</publisher>
-  <publisherurl>https://example.com</publisherurl>
-  <lastBuildDate><![CDATA[2026-01-15T13:00:00Z]]></lastBuildDate>
-
+  <publisher>RemoteTalents</publisher>
+  <publisherurl>https://roy.careers.loxo.co</publisherurl>
+  <lastBuildDate>2026-01-22T13:22:45.589Z</lastBuildDate>
   <job>
-    <title><![CDATA[Operations Specialist]]></title>
-    <date><![CDATA[2026-01-10T00:00:00Z]]></date>
-    <referencenumber><![CDATA[ops-specialist-001]]></referencenumber>
-    <url><![CDATA[https://example.com/careers/ops-specialist?source=Indeed]]></url>
-    <company><![CDATA[ExampleCo]]></company>
-    <sourcename><![CDATA[ExampleCo]]></sourcename>
+    <title><![CDATA[Accountmanager]]></title>
+    <date><![CDATA[2026-01-22T13:22:45.589Z]]></date>
+    <referencenumber><![CDATA[205584]]></referencenumber>
+    <requisitionid><![CDATA[205584]]></requisitionid>
+    <url><![CDATA[https://roy-remotetalents-nl.app.loxo.co/job/Mzg2MjYtYzduMG94dWg4cGJ5MmdxZA==]]></url>
+    <company><![CDATA[RemoteTalents]]></company>
+    <sourcename><![CDATA[RemoteTalents]]></sourcename>
+    <city><![CDATA[Remote]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[NL]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <email><![CDATA[roy@remotetalents.nl]]></email>
+    <description><![CDATA[Functieomschrijving
+Als accountmanager ben je verantwoordelijk voor het onderhouden en uitbouwen van relaties met bestaande klanten. Je bent het aanspreekpunt voor onze klanten en draagt bij aan klantbinding en het vergroten van de omzet door upsell en downsell activiteiten.
 
-    <city><![CDATA[Taguig]]></city>
-    <state><![CDATA[NCR]]></state>
-    <country><![CDATA[PH]]></country>
+Wat houdt het werk in?
+Je onderhoudt regelmatig contact met klanten, activeert oude klanten opnieuw via e-mailfunnels en verwerkt orders nauwkeurig in onze systemen. Je werkt nauw samen met de eigenaren van het bedrijf en krijgt directe begeleiding. Daarnaast ondersteun je bij het beheer van CRM-systemen voor klant- en leadbeheer.
 
-    <description><![CDATA[
-      <p><b>About the role</b></p>
-      <ul>
-        <li>Own day-to-day ops workflows</li>
-        <li>Maintain internal tools and dashboards</li>
-      </ul>
-      <p><b>Requirements</b></p>
-      <ul>
-        <li>2+ years operations experience</li>
-      </ul>
-    ]]></description>
+Over ons
+Wij zijn een internationale e-commerce speler en zijn actief sinds 2015. Onze passie is het aanbieden van kunstgeïnspireerde sokken en accessoires aan klanten wereldwijd. We groeien snel en hebben een klein dynamisch team waarin directe communicatie en betrokkenheid centraal staan. We bieden mogelijkheden voor flexibele werktijden en richten ons op medewerkers in Suriname.
 
-    <!-- Include these only if they’re shown on your job page -->
+Wat bieden wij
+- Ambitieuze leeromgeving
+- Flexibiliteit in werken binnen Nederlandse werktijden
+- Uitdagende baan met ruimte voor persoonlijke groei
+- Bonusregeling bij goede prestaties
+
+Vereisten
+1. Minimaal medior werkervaring in accountmanagement of een vergelijkbare commerciële functie
+2. Uitstekende beheersing van de Nederlandse taal, Engels is een pré
+3. Ervaring met klantcontact en klantenbinding
+4. Administratieve vaardigheden en bekwaamheid in het werken met CRM-systemen
+5. Proactief, sociaal en communicatief sterk
+6. Leeftijd tussen 20 en 35 jaar
+7. Parttime beschikbaarheid (21-25 uur per week)
+
+Hoe kun je solliciteren?
+Kandidaten kunnen solliciteren via de website of direct een e-mail sturen naar: roy@remotetalents.nl]]></description>
+    <salary><![CDATA[]]></salary>
     <jobtype><![CDATA[fulltime]]></jobtype>
-    <remotetype><![CDATA[Fully remote]]></remotetype>
+    <category><![CDATA[]]></category>
+    <experience><![CDATA[]]></experience>
   </job>
-
 </source>
